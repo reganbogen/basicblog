@@ -25,8 +25,6 @@ h1 {
     margin-bottom: 20px;
 }
 
-
-
 h2 {
     font-size: 25px;
     margin-bottom: 10px;
@@ -41,25 +39,22 @@ h2 {
     font-size: 22px;
 }
 
-
 .container {
     width: 1140px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto 0 auto;
 }
 
 .blog-post {
-    background-color: #0000ff;
     width: 75%;
     float: left;
+    padding-right: 30px;
 }
 
 .other-post {
-    background-color: #00ff00;
     width: 25%;
     float: left;
 }
 
 .author-box {
-    background-color: #ffff00;
+
 }
