@@ -69,6 +69,12 @@ h2 {
 
 .author-box img {
   height: 100px;
+  width: auto;
   border-radius: 50%;
   float: left;
+}
+
+.blog-post img {
+  height: 150px;
+  width: auto;
 }
